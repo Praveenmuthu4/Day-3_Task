@@ -1,0 +1,59 @@
+let myResume={
+    "basics": {
+      "name": "M Praveen",
+      "email": "praveenmuthu4@gamil.com",
+      "phone": 7397516797,
+      "degree": "B.E",
+      "location": {
+        "address": "Plot No.-60.Nehru Nagar,Poolangudi Colony",
+        "postalCode": 620025,
+        "city": "Trichy",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+      "profiles": [
+        {
+          "website": "https://www.linkedin.com/in/praveen-m-4419571b5/",
+          "github":"https://github.com/Praveenmuthu4"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Flipkart Internet PVT LTD",
+        "position": "Support Engineer",
+        "startDate": "27-09-2021",
+        "summary": "I was a Support Engineer,where having much knowledge in hardware and software.",
+      },
+    ],
+    "education": [
+      {
+        "institution": "M.I.E.T Engineering college",
+        "department": "CSE",
+        "studyType": "fulltime",
+        "batch start year": 2017,
+        "batch end year": 2021,
+        "gpa": 7.5,
+      }
+    ],
+    "skills": [
+      {
+        "name": "javascript and c,c++",
+        "level": "beginer",
+        "project": [
+          "automatic object avoidence car using Arduino"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,Enlish,Hindi",
+      }
+    ],
+    "interests": [
+      {
+        "name": "Crypto Trader,Researching for new Devices launching in market",
+      }
+    ]
+  }
+  console.log(myResume);
